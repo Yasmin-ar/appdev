@@ -35,15 +35,18 @@ List of contents
 	descriptions.
 
 	List of files:
-	README.md	this file.
-	screen.c	contains screen manipulation functions
-	screen.h	contains constant definitions and function declarations of screen.c
+	README.md		this file.
+	screen.c		contains screen manipulation functions
+	screen.h		contains constant definitions and function declarations of screen.c
 	testscreen.c	contains the code for testing the functions on the screen.
-	makefile	contains the compiling rules
-	testcurl.c	contains the code for sending commands to php files
-	comm.c	contains the code for the posting and responding to a specific server.
-	comm.h	contains constant functions declarations and definitions 
+	makefile		contains the compiling rules
+	testcurl.c		contains the code for sending commands to php files
+	comm.c			contains the code for the posting and responding to a specific server.
+	comm.h			contains constant functions declarations and definitions 
 	to comm.c
 
 5. License and Copyright
 	This application follows GPLv2 copyright.
+
+6. Credits and acknowledgement
+	 
