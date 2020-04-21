@@ -1,5 +1,4 @@
 
-
 // usually in a header file, following information are included
 // 1. function declarations
 // 2. constant definitions
@@ -11,7 +10,7 @@
 enum FG{BLACK=30,RED,GREEN,YELLOW,BLUE,MAGENTA,CYAN,WHITE};
 #define bg(c) (c+10)   // macro definition
 
-//#define UNICODE   // for conditional compillation
+#define UNICODE   // for conditional compillation
 #define BAR "\u2590"
 
 //#define DEBUG     // for conditional compilation
