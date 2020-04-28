@@ -43,10 +43,19 @@ List of contents
 	testcurl.c		contains the code for sending commands to php files
 	comm.c			contains the code for the posting and responding to a specific server.
 	comm.h			contains constant functions declarations and definitions 
-	to comm.c
+					to comm.c
+	main.c			this file is used to test functions in screen.c
+	screen.tar		this is the zipped file.
+	sound.c			contains sound file functions.
+	sound.h			this is the header file of sound.c
+	test.wav		it contains  the sound wave file.
+	testurl.c		this file contains the http link
 
 5. License and Copyright
 	This application follows GPLv2 copyright.
-
-6. Credits and acknowledgement
+6. Contact Information 
+	Email				bridgeshetu@gmail.com
+	Phone number		0465954192
+	Skype				BLI Shetu sharmin
+7. Credits and acknowledgement
 	 
